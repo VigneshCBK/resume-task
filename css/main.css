@@ -1,0 +1,120 @@
+.header{
+text-align: center;
+font-size: 26px;
+margin: 14px;
+color: white;
+background-color: darkslategrey;
+width: auto;
+height: 100px;
+} 
+
+.contact{
+    display: flex;
+  justify-content: space-around;
+ background-color: rgb(199, 203, 199);
+ color: rgba(12, 12, 12, 0.851);
+}
+.edu-date{
+text-align: end;
+}
+.date{
+    text-align: end;
+}
+.full{
+    margin: 95px;
+    
+}
+.ed-date{
+    text-align: end;
+}
+.summary{
+    color: rgb(255, 0, 8);
+    margin-top: 10px;
+    margin-left: 30px;
+}
+.text1{
+    height: 30px;
+    width: 14px;
+    background-color: rgb(8, 36, 127);
+    position: absolute;
+    left: 106px;
+    margin-top: 2px;
+}
+.text2{
+    height: 30px;
+    width: 14px;
+    background-color:rgb(8, 36, 127);
+    position: absolute;
+    left: 106px;
+    margin-top: 2px;
+}
+.Pro-Sec{
+    color: rgb(255, 0, 8);
+    margin-top: 10px;
+    margin-left: 30px;
+
+}
+.company-color{
+    color:rgb(255, 0, 8); ;
+    font-style: italic;
+}
+.job-title{
+    color: rgb(35, 11, 153);
+}
+.prf-color{
+color:rgb(255, 0, 8);
+}
+.job2{
+    color: rgb(35, 11, 153);
+}
+.company2{
+    color: rgb(255, 0, 8);
+    font-style: italic;
+}
+.ed-color{
+    color: rgb(255, 0, 8);
+}
+
+.key{
+    color: rgb(255, 0, 8);
+    margin-top: 10px;
+    margin-left: 30px;
+}
+.degree{
+    color: rgb(35, 11, 153);
+}
+.text3{
+    height: 30px;
+    width: 14px;
+    background-color: rgb(8, 36, 127);
+    position: absolute;
+    left: 106px;
+    margin-top: 2px;
+}
+.ed-color{
+    color: rgb(255, 0, 8);
+    margin-top: 10px;
+    margin-left: 30px;
+}
+.certifi{
+    color: rgb(255, 0, 8);
+    margin-top: 10px;
+    margin-left: 30px;
+}
+.text4{
+    height: 30px;
+    width: 14px;
+    background-color: rgb(8, 36, 127);
+    position: absolute;
+    left: 106px;
+    margin-top: 2px;
+}
+.text5{
+    height: 30px;
+    width: 14px;
+    background-color: rgb(8, 36, 127);
+    position: absolute;
+    left: 106px;
+    margin-top: 2px;
+}
+
